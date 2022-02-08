@@ -1,0 +1,14 @@
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.exe
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.deps.json
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.runtimeconfig.json
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.runtimeconfig.dev.json
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.dll
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\bin\Debug\netcoreapp3.1\Strings Data structures.pdb
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.csproj.AssemblyReference.cache
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.AssemblyInfoInputs.cache
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.AssemblyInfo.cs
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.csproj.CoreCompileInputs.cache
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.dll
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.pdb
+C:\Users\manu\source\repos\Strings Data structures\Strings Data structures\obj\Debug\netcoreapp3.1\Strings Data structures.genruntimeconfig.cache
