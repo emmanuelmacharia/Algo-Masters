@@ -171,7 +171,7 @@ class SinglyLinkedList:
         if not data:
             return
         
-        if self.isEmpty:
+        if self.isEmpty():
             return
 
         found_node = self.peek(data)
