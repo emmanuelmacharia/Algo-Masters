@@ -175,6 +175,9 @@ class SinglyLinkedList:
             return
 
         found_node = self.peek(data)
+        if found_node == 'Not found':
+            return
+            
         if found_node[1] == 0:
             found_node[0].next = None
 
