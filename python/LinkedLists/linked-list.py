@@ -5,10 +5,7 @@ IT INCLUDES CREATING A SINGLY LINKED LIST AND DOUBLY LINKED LIST
 """
 
 
-
-from ast import Num
-
-from numpy import NaN
+from cmath import isnan
 
 
 class Node:
@@ -83,7 +80,7 @@ class SinglyLinkedList:
         if self.isEmpty():
             return
 
-        if int(index) == NaN:
+        if isnan(index):
             return
 
         if count == index:
